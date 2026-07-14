@@ -2,11 +2,9 @@
 
 A modern game-inspired Heads-Up Display (HUD) built with HTML, CSS, and JavaScript. This project demonstrates reusable game UI components commonly found in RPG and action games.
 
-
-
 ## 🖼️ Preview
 
-![Game HUD](assets/screenshot.png)
+![Game HUD](assets/Screenshot.png)
 
 ## ✨ Features
 
@@ -40,7 +38,7 @@ game-hud/
     └── screenshot.png
 ```
 
-## 🎯 Purpose
+## 🎯 Purpos
 
 This project showcases a responsive and reusable Game HUD interface inspired by modern RPG and action games. It demonstrates UI layout techniques using Flexbox and Grid, along with interactive components and clean frontend architecture.
 
