@@ -1,6 +1,12 @@
 # Nebula Core - Game HUD
 
 A modern game-inspired Heads-Up Display (HUD) built with HTML, CSS, and JavaScript. This project demonstrates reusable game UI components commonly found in RPG and action games.
+## 🌐 Live Demo
+
+Live Site: https://greeshmabal92-a11y.github.io/game-hud/  
+
+## Repository
+📁 GitHub: https://github.com/greeshmabal92-a11y/game-hud
 
 ## 🖼️ Preview
 
