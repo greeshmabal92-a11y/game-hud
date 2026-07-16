@@ -203,6 +203,25 @@ body{
     pointer-events:none;
     opacity:0.5;
 }
+.project-info {
+    max-width: 800px;
+    margin: 20px auto 35px;
+    padding: 0 20px;
+    text-align: center;
+    color: #e8eefc;
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 400;
+}
+.project-info h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+.project-info p {
+    margin: 0;
+}
 @media (max-width: 768px){
 
     body{
